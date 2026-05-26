@@ -1,0 +1,29 @@
+ print("Chaos City Em: O Frasco Perdido.\n")
+print("Você volta do intervalo e percebe que seu frasco científico sumiu\n")
+print("Você vê um vulto saindo da sala com algo parecido na mochila. provavelmente um outro aluno.\n")
+escolha = ""
+
+while escolha != "B":
+    print("O Que você faz?\nA) Ir atrás dele bravo e exigir\nB) Se Aproximar com calma e explicar a situação")
+    escolha = input("\nQual é a sua decisão dentre A ou B?: ")
+
+    if escolha == "A":
+        print("\nVocê chega nervoso o assustando. no meio da confusão, seu frasco cai.\nVocê não foi maduro o suficiente para lidar com a situação. Melhore. \n")
+        print("\nFinal Negativo 1/2. Seu trabalho de semanas foi para o esgoto.\n")
+        print("Suten: Você fracassou, Tenshi, agora retorne e faça outra escolha.\n")
+        print("====================Reiniciando====================")
+
+    elif escolha == "B":
+        print("\nVocê se aproxima calmamente e explica a situação.\nLucas te devolveu o frasco intacto! Que bom! \nVocẽ melhorou... parabéns. Continue assim.\n")
+        print("\nFinal Positivo 2/2. Você recuperou seu experimento.\n pode leva-lo para casa e continuar suas pesquisas. Você conseguiu, dessa vez, agir com maturidade.")
+    else:
+        print("\nSuten: Erro no Sistema. Reprogramando...")
+
+print("\n====================Continuação:====================\n")
+
+print("Você está caminha para fora da escola. Seus pais tinham lhe dito que era para ir direto para casa após as aulas, não se disperçar do caminho
+
+esgoto = ""
+
+while esgoto != "A"
+
